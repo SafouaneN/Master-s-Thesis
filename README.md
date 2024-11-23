@@ -1,5 +1,5 @@
 
-# Data Extraction for the Automation of the Validation Process of German Unit Certificates using Deep Neural Networks
+# Data Extraction for the Automation of the Validation Process of German Unit Certificates Using Deep Neural Networks
 
 ## Abstract
 
@@ -18,7 +18,7 @@ Efficiently extracting information from structured documents is a multidisciplin
 ### LiLT(OCR-based) Results
 **Performance**: Best performing model
 <br />
-Below is an example of the entitys recongintion using the **LiLT** model:
+Below is an example of entity recognition using the **LiLT** model:
 <p align="center">
 <img width="353" alt="test_lilt" src="https://github.com/user-attachments/assets/ae1fffcc-a2e6-4968-84ac-0fc8dafd6991">
 <br />
@@ -26,7 +26,7 @@ Below is an example of the entitys recongintion using the **LiLT** model:
 ### LayoutXLM(OCR-based) Results: 
 - **Performance**: Second best performing model
   <br />
-Below is an example of the entitys recongintion using the **LayoutXLM** model:
+Below is an example of entity recognition using the **LayoutXLM** model:
 <p align="center">
 <img width="316" alt="test_layoutxlm" src="https://github.com/user-attachments/assets/3ecbbc18-44eb-4478-803e-e4094a61e91c"> 
 <br />
@@ -34,7 +34,7 @@ Below is an example of the entitys recongintion using the **LayoutXLM** model:
 ### Donut(OCR-free) Results
 - **Performance**: The least performing model
   <br />
-Below is an example of the entitys recognition **Donut** model:
+Below is an example of entity recognition using the **Donut** model:
 <p align="center">
 <img width="316" alt="[156]"src="https://github.com/user-attachments/assets/b6d3dd57-75e8-497d-9696-4f6f20d062e0"> <img width="548" alt="r_donut" src="https://github.com/user-attachments/assets/34d009c5-47fc-4b49-bddb-bb8ee9cd0916">
 
