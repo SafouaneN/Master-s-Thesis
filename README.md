@@ -8,15 +8,15 @@ Efficiently extracting information from structured documents is a multidisciplin
 
 
 ## Results
-### LiLT Results (Best performing model)
+### LiLT(OCR-based) Results (Best performing model)
 Below is an example of bounding box detection using the **LiLT** model:
 ![LiLT Results](test_lilt.png)
 
-### LayoutXLM Results
+### LayoutXLM(OCR-based) Results
 Below is an example of bounding box detection using the **LayoutXLM** model:
 ![LayoutXLM Results](test_layoutxlm.png)
 
-### Donut Results
+### Donut(OCR-free) Results
 Below is an example of bounding box detection using the **Donut** model (image placeholder):
 ![Donut Results](156.jpg)
 
