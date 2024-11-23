@@ -8,9 +8,11 @@ Efficiently extracting information from structured documents is a multidisciplin
 
 
 ## Results
-### LiLT(OCR-based) Results (Best performing model)
-Below is an example of bounding box detection using the **LiLT** model:
-![LiLT Results](test_lilt.png)
+### LiLT(OCR-based) Results: Best performing model
+Below is an example of the entitys recongintion using the **LiLT** model:
+<p align="center">
+<img width="353" alt="test_lilt" src="https://github.com/user-attachments/assets/ae1fffcc-a2e6-4968-84ac-0fc8dafd6991">
+<br />
 
 ### LayoutXLM(OCR-based) Results
 Below is an example of bounding box detection using the **LayoutXLM** model:
