@@ -14,13 +14,15 @@ Below is an example of the entitys recongintion using the **LiLT** model:
 <img width="353" alt="test_lilt" src="https://github.com/user-attachments/assets/ae1fffcc-a2e6-4968-84ac-0fc8dafd6991">
 <br />
 
-### LayoutXLM(OCR-based) Results
-Below is an example of bounding box detection using the **LayoutXLM** model:
-![LayoutXLM Results](test_layoutxlm.png)
+### LayoutXLM(OCR-based) Results: Second best performing model
+Below is an example of the entitys recongintion using the **LayoutXLM** model:
+<p align="center">
+<img width="316" alt="test_layoutxlm" src="https://github.com/user-attachments/assets/3ecbbc18-44eb-4478-803e-e4094a61e91c">
+<br />
 
 ### Donut(OCR-free) Results
 Below is an example of bounding box detection using the **Donut** model (image placeholder):
-![Donut Results](156.jpg)
+<img src="link_to_image1" alt="Image 1" width="300"/> <img src="link_to_image2" alt="Image 2" width="300"/>
 
 ---
 This repository serves as a demonstration of the capabilities of these models on real-world document processing tasks.
