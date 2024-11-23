@@ -22,7 +22,8 @@ Below is an example of the entitys recongintion using the **LayoutXLM** model:
 
 ### Donut(OCR-free) Results
 Below is an example of bounding box detection using the **Donut** model (image placeholder):
-<img src="link_to_image1" alt="Image 1" width="300"/> <img src="link_to_image2" alt="Image 2" width="300"/>
+<p align="center">
+<img width="316" alt="[156]"src="https://github.com/user-attachments/assets/b6d3dd57-75e8-497d-9696-4f6f20d062e0">
 
 ---
 This repository serves as a demonstration of the capabilities of these models on real-world document processing tasks.
